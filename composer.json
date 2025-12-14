@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "SimpleApi\\": "src/"}
+  }
+}
+
+// config do autoload, inserindo no json para carregar as classes!
